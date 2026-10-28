@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋, I'm Arqum Jamal
 
-<!--
-**Arqumjamal/Arqumjamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Frontend & backend  Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student passionate about building modern, responsive, and practical web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- 💻 Building full-stack web applications
+- 🎨 Developing modern frontend interfaces
+- ⚙️ Learning backend development and APIs
+- 🗄️ Working with SQL and MongoDB
+- ⚛️ Improving my React skills
+- ☁️ Exploring DevOps and deployment
+
+### 🌱 Currently Learning
+- HTML & CSS
+- JavaScript
+- React.js
+- Node.js
+- Next.js
+- SQL & MongoDB
+- Git & GitHub
+- Backend development
+- DevOps fundamentals
+
+### 🎯 My Goal
+To become a professional Full-Stack Software Engineer and build real-world applications that solve practical problems.
+
+### 🛠️ Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, React.js  
+**Backend:** Node.js, Next.js  
+**Database:** SQL, MongoDB  
+**Tools:** Git, GitHub, VS Code
+
+### 📚 Learning Philosophy
+> Learn → Build → Practice → Improve → Repeat
+
+I'm continuously improving my programming, problem-solving, and software engineering skills through practical projects.
+
+### 📫 Connect With Me
+- LinkedIn: Add your LinkedIn URL
+- GitHub: You're already here 😄
+
+---
+
+⭐ Thanks for visiting my profile!
